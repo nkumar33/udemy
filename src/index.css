@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.button-red {
+    background-color: red;
+    color: white;
+  }
+  .button-grey {
+    background-color: grey;
+    color: white;
+  }
+  .button-black {
+    background-color: black;
+    color: yellow;
+  }
+  
